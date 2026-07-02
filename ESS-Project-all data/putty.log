@@ -1,0 +1,20 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2025.07.21 21:57:59 =~=~=~=~=~=~=~=~=~=~=~=
+
+STM32 BME680 CLI Project Start
+BME680 Initialized.
+Type TEMP, HUM, PRESS, GAS or ALL and hit Enter
+
+STM32 BME680 CLI Project Start
+BME680 Initialized.
+ENTER START TO START YOUR NUCLEO.
+ENTER START TO START YOUR NUCLEO.
+sta   START
+
+========== IoT Prototype: Smart Sensing via LoRa. ==========
+BUSY pin state: 1
+LoRa Status: 0xFF
+BME680 Initialized.
+IoT Prototype: CLI Started
+Type TEMP, HUM, PRESS, GAS, ALL, LORA SEND <cmd> and <msg>, LORA STATUS, LORA INIT, LORA RESET, SUM, SUB, MUL, DIV, START and hit Enter
+
+^C

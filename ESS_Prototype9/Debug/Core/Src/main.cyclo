@@ -1,0 +1,10 @@
+../Core/Src/main.c:75:5:_write	1
+../Core/Src/main.c:83:8:user_i2c_read	2
+../Core/Src/main.c:93:8:user_i2c_write	2
+../Core/Src/main.c:103:6:user_delay_us	2
+../Core/Src/main.c:114:6:BME680_Init	2
+../Core/Src/main.c:238:6:handle_command	18
+../Core/Src/main.c:299:6:HAL_UART_RxCpltCallback	6
+../Core/Src/main.c:326:5:main	1
+../Core/Src/main.c:381:6:SystemClock_Config	3
+../Core/Src/main.c:425:6:Error_Handler	1
