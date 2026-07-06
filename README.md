@@ -1,4 +1,4 @@
-README.txt  
+
 Group 6 – ESS Project  
 Project Title: IoT Prototype: Smart Sensing via LoRa  
 
